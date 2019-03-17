@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: white;
 	color: inherit;
 }
 
@@ -340,7 +340,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(0, 0, 0, 0.05);
+		background: rgba(0, 0, 0, 0);
 		border-color: rgba(0, 0, 0, 0.2);
 	}
 
@@ -4360,7 +4360,7 @@ input, select, textarea {
 	}
 
 	.banner.invert .image {
-		background-color: rgba(255, 255, 255, 0.125);
+		background-color: rgba(0, 0, 0, 0.125);
 	}
 
 	.banner.style4 .image {
@@ -5783,7 +5783,7 @@ input, select, textarea {
 	}
 
 	.spotlight.invert .image {
-		background-color: rgba(255, 255, 255, 0.125);
+		background-color: rgba(0, 0, 0, 0.125);
 	}
 
 	.spotlight.style3 .image {
@@ -8486,7 +8486,7 @@ input, select, textarea {
 			}
 
 			#wrapper > .invert .spotlight .image {
-				background-color: rgba(255, 255, 255, 0.125);
+				background-color: rgba(0, 0, 0, 1);
 			}
 
 			#wrapper > .invert .spotlight.style3 .image {
@@ -8514,7 +8514,7 @@ input, select, textarea {
 			}
 
 			#wrapper > .invert .gallery article .image {
-				background-color: rgba(255, 255, 255, 0.125);
+				background-color: rgba(0, 0, 0, 1);
 			}
 
 			#wrapper > .invert .items.style1 > * {
