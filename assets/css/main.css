@@ -2606,9 +2606,13 @@ input, select, textarea {
 /* BildTest */
 	.bild {
 		max-width: 100%;
-		width: 350px;
+		width: 300px;
 		height: auto;
-		position: relative;
+		position: center;
+	}
+	img.center {
+		display: block;
+		margin: 0 auto;
 	}
 /* Image */
 
