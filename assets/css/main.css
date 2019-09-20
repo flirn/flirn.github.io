@@ -231,28 +231,28 @@ input, select, textarea {
 	sub {
 		font-size: 0.8rem;
 		position: relative;
-		top: 0.5rem;
+		top: 0.75rem;
 	}
 
 	sup {
 		font-size: 0.8rem;
 		position: relative;
-		top: -0.5rem;
+		top: -0.75rem;
 	}
 
 	blockquote {
 		border-left: solid 4px;
 		font-style: italic;
 		margin: 0 0 2rem 0;
-		padding: 0.5rem 0 0.5rem 2rem;
+		padding: 0.75rem 0 0.75rem 2rem;
 	}
 
 	code {
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
-		margin: 0 0.25rem;
-		padding: 0.25rem 0.325rem;
+		margin: 0 0.75rem;
+		padding: 0.75rem 0.325rem;
 	}
 
 	pre {
@@ -508,19 +508,19 @@ input, select, textarea {
 
 		.row.gtr-25 {
 			margin-top: 0;
-			margin-left: -0.5rem;
+			margin-left: -0.75rem;
 		}
 
 			.row.gtr-25 > * {
-				padding: 0 0 0 0.5rem;
+				padding: 0 0 0 0.75rem;
 			}
 
 			.row.gtr-25.gtr-uniform {
-				margin-top: -0.5rem;
+				margin-top: -0.75rem;
 			}
 
 				.row.gtr-25.gtr-uniform > * {
-					padding-top: 0.5rem;
+					padding-top: 0.75rem;
 				}
 
 		.row.gtr-50 {
@@ -751,19 +751,19 @@ input, select, textarea {
 
 				.row.gtr-25 {
 					margin-top: 0;
-					margin-left: -0.5rem;
+					margin-left: -0.75rem;
 				}
 
 					.row.gtr-25 > * {
-						padding: 0 0 0 0.5rem;
+						padding: 0 0 0 0.75rem;
 					}
 
 					.row.gtr-25.gtr-uniform {
-						margin-top: -0.5rem;
+						margin-top: -0.75rem;
 					}
 
 						.row.gtr-25.gtr-uniform > * {
-							padding-top: 0.5rem;
+							padding-top: 0.75rem;
 						}
 
 				.row.gtr-50 {
@@ -996,19 +996,19 @@ input, select, textarea {
 
 				.row.gtr-25 {
 					margin-top: 0;
-					margin-left: -0.5rem;
+					margin-left: -0.75rem;
 				}
 
 					.row.gtr-25 > * {
-						padding: 0 0 0 0.5rem;
+						padding: 0 0 0 0.75rem;
 					}
 
 					.row.gtr-25.gtr-uniform {
-						margin-top: -0.5rem;
+						margin-top: -0.75rem;
 					}
 
 						.row.gtr-25.gtr-uniform > * {
-							padding-top: 0.5rem;
+							padding-top: 0.75rem;
 						}
 
 				.row.gtr-50 {
@@ -1241,19 +1241,19 @@ input, select, textarea {
 
 				.row.gtr-25 {
 					margin-top: 0;
-					margin-left: -0.5rem;
+					margin-left: -0.75rem;
 				}
 
 					.row.gtr-25 > * {
-						padding: 0 0 0 0.5rem;
+						padding: 0 0 0 0.75rem;
 					}
 
 					.row.gtr-25.gtr-uniform {
-						margin-top: -0.5rem;
+						margin-top: -0.75rem;
 					}
 
 						.row.gtr-25.gtr-uniform > * {
-							padding-top: 0.5rem;
+							padding-top: 0.75rem;
 						}
 
 				.row.gtr-50 {
@@ -1486,19 +1486,19 @@ input, select, textarea {
 
 				.row.gtr-25 {
 					margin-top: 0;
-					margin-left: -0.5rem;
+					margin-left: -0.75rem;
 				}
 
 					.row.gtr-25 > * {
-						padding: 0 0 0 0.5rem;
+						padding: 0 0 0 0.75rem;
 					}
 
 					.row.gtr-25.gtr-uniform {
-						margin-top: -0.5rem;
+						margin-top: -0.75rem;
 					}
 
 						.row.gtr-25.gtr-uniform > * {
-							padding-top: 0.5rem;
+							padding-top: 0.75rem;
 						}
 
 				.row.gtr-50 {
@@ -1731,19 +1731,19 @@ input, select, textarea {
 
 				.row.gtr-25 {
 					margin-top: 0;
-					margin-left: -0.5rem;
+					margin-left: -0.75rem;
 				}
 
 					.row.gtr-25 > * {
-						padding: 0 0 0 0.5rem;
+						padding: 0 0 0 0.75rem;
 					}
 
 					.row.gtr-25.gtr-uniform {
-						margin-top: -0.5rem;
+						margin-top: -0.75rem;
 					}
 
 						.row.gtr-25.gtr-uniform > * {
-							padding-top: 0.5rem;
+							padding-top: 0.75rem;
 						}
 
 				.row.gtr-50 {
@@ -1976,19 +1976,19 @@ input, select, textarea {
 
 				.row.gtr-25 {
 					margin-top: 0;
-					margin-left: -0.5rem;
+					margin-left: -0.75rem;
 				}
 
 					.row.gtr-25 > * {
-						padding: 0 0 0 0.5rem;
+						padding: 0 0 0 0.75rem;
 					}
 
 					.row.gtr-25.gtr-uniform {
-						margin-top: -0.5rem;
+						margin-top: -0.75rem;
 					}
 
 						.row.gtr-25.gtr-uniform > * {
-							padding-top: 0.5rem;
+							padding-top: 0.75rem;
 						}
 
 				.row.gtr-50 {
@@ -2125,7 +2125,7 @@ input, select, textarea {
 		input[type="button"].icon:before,
 		button.icon:before,
 		.button.icon:before {
-			margin-right: 0.5rem;
+			margin-right: 0.75rem;
 		}
 
 		input[type="submit"].fit,
@@ -2178,7 +2178,7 @@ input, select, textarea {
 		.button.disabled,
 		.button:disabled {
 			pointer-events: none;
-			opacity: 0.25;
+			opacity: 0.75;
 		}
 
 	input[type="submit"],
@@ -2277,7 +2277,7 @@ input, select, textarea {
 				}
 
 				form > .fields > .field.third {
-					width: calc(100%/3 - 0.5rem);
+					width: calc(100%/3 - 0.75rem);
 				}
 
 				form > .fields > .field.quarter {
@@ -2496,7 +2496,7 @@ input, select, textarea {
 		}
 
 	select {
-		background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(0, 0, 0, 0.2)' /%3E%3C/svg%3E");
+		background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.75-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.75,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.75,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.75-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.75-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(0, 0, 0, 0.2)' /%3E%3C/svg%3E");
 	}
 
 		select option {
@@ -2603,7 +2603,13 @@ input, select, textarea {
 		box-shadow: inset 0 0 0 1px #285f88;
 		color: #285f88;
 	}
-
+/* BildTest */
+	.bild {
+		max-width: 100%;
+		width: 350px;
+		height: auto;
+		position: relative;
+	}
 /* Image */
 
 	.image {
@@ -2611,6 +2617,7 @@ input, select, textarea {
 		border-radius: 4px;
 		display: inline-block;
 		position: relative;
+		width: 100%
 	}
 
 		.image img {
@@ -2630,13 +2637,13 @@ input, select, textarea {
 		.image.left {
 			float: left;
 			margin: 0 1.5rem 1rem 0;
-			top: 0.25rem;
+			top: 0.75rem;
 		}
 
 		.image.right {
 			float: right;
 			margin: 0 0 1rem 1.5rem;
-			top: 0.25rem;
+			top: 0.75rem;
 		}
 
 		.image.fit {
@@ -2668,7 +2675,7 @@ input, select, textarea {
 	}
 
 		ol li {
-			padding-left: 0.25rem;
+			padding-left: 0.75rem;
 		}
 
 	ul {
@@ -2678,7 +2685,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.5rem;
+			padding-left: 0.75rem;
 		}
 
 		ul.alt {
@@ -2688,7 +2695,7 @@ input, select, textarea {
 
 			ul.alt li {
 				border-top: solid 1px;
-				padding: 0.5rem 0;
+				padding: 0.75rem 0;
 			}
 
 				ul.alt li:first-child {
@@ -2847,7 +2854,7 @@ input, select, textarea {
 						ul.actions:not(.fixed) li input[type="button"].icon:before,
 						ul.actions:not(.fixed) li button.icon:before,
 						ul.actions:not(.fixed) li .button.icon:before {
-							margin-left: -0.5rem;
+							margin-left: -0.75rem;
 						}
 
 		}
@@ -3092,10 +3099,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .banner.onload-image-fade-up .image {
@@ -3122,10 +3129,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .banner.onload-image-fade-down .image {
@@ -3152,10 +3159,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .banner.onload-image-fade-left .image {
@@ -3182,10 +3189,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .banner.onload-image-fade-right .image {
@@ -3294,10 +3301,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.banner.onscroll-image-fade-up.is-inactive .image {
@@ -3324,10 +3331,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.banner.onscroll-image-fade-down.is-inactive .image {
@@ -3354,10 +3361,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.banner.onscroll-image-fade-left.is-inactive .image {
@@ -3384,10 +3391,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.banner.onscroll-image-fade-right.is-inactive .image {
@@ -3514,7 +3521,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.banner.style1 .content {
-				padding: 2.5rem 2rem 0.5rem 2rem ;
+				padding: 2.5rem 2rem 0.75rem 2rem ;
 			}
 
 		}
@@ -3646,7 +3653,7 @@ input, select, textarea {
 			width: 40rem;
 			max-width: 100%;
 			background-color: inherit;
-			border-radius: 0.5rem;
+			border-radius: 0.75rem;
 			margin-bottom: 2rem;
 			z-index: 1;
 		}
@@ -3729,7 +3736,7 @@ input, select, textarea {
 			}
 
 				.banner.style2 .content {
-					padding: 2.5rem 1.5rem 0.5rem 1.5rem ;
+					padding: 2.5rem 1.5rem 0.75rem 1.5rem ;
 				}
 
 		}
@@ -3878,7 +3885,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.banner.style3 {
-				padding: 2.5rem 2rem 0.5rem 2rem ;
+				padding: 2.5rem 2rem 0.75rem 2rem ;
 				-moz-align-items: -moz-flex-start;
 				-webkit-align-items: -webkit-flex-start;
 				-ms-align-items: -ms-flex-start;
@@ -4121,7 +4128,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.banner.style4 {
-				padding: 2.5rem 2rem 0.5rem 2rem ;
+				padding: 2.5rem 2rem 0.75rem 2rem ;
 				-moz-align-items: -moz-flex-start;
 				-webkit-align-items: -webkit-flex-start;
 				-ms-align-items: -ms-flex-start;
@@ -4276,7 +4283,7 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			border-radius: 0;
-			opacity: 0.5;
+			opacity: 0.75;
 		}
 
 			.banner.style5 .image img {
@@ -4324,7 +4331,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.banner.style5 {
-				padding: 2.5rem 2rem 0.5rem 2rem ;
+				padding: 2.5rem 2rem 0.75rem 2rem ;
 			}
 
 		}
@@ -4494,10 +4501,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .spotlight.onload-image-fade-up .image {
@@ -4524,10 +4531,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .spotlight.onload-image-fade-down .image {
@@ -4554,10 +4561,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .spotlight.onload-image-fade-left .image {
@@ -4584,10 +4591,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	body.is-preload .spotlight.onload-image-fade-right .image {
@@ -4696,10 +4703,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.spotlight.onscroll-image-fade-up.is-inactive .image {
@@ -4726,10 +4733,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.spotlight.onscroll-image-fade-down.is-inactive .image {
@@ -4756,10 +4763,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.spotlight.onscroll-image-fade-left.is-inactive .image {
@@ -4786,10 +4793,10 @@ input, select, textarea {
 			-webkit-transition: opacity 0.75s ease-in-out;
 			-ms-transition: opacity 0.75s ease-in-out;
 			transition: opacity 0.75s ease-in-out;
-			-moz-transition-delay: 0.5625s;
-			-webkit-transition-delay: 0.5625s;
-			-ms-transition-delay: 0.5625s;
-			transition-delay: 0.5625s;
+			-moz-transition-delay: 0.75625s;
+			-webkit-transition-delay: 0.75625s;
+			-ms-transition-delay: 0.75625s;
+			transition-delay: 0.75625s;
 		}
 
 	.spotlight.onscroll-image-fade-right.is-inactive .image {
@@ -4924,7 +4931,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.spotlight.style1 .content {
-				padding: 2.5rem 2rem 0.5rem 2rem ;
+				padding: 2.5rem 2rem 0.75rem 2rem ;
 			}
 
 		}
@@ -5085,7 +5092,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.spotlight.style2 {
-				padding: 2.5rem 2rem 0.5rem 2rem ;
+				padding: 2.5rem 2rem 0.75rem 2rem ;
 				-moz-align-items: -moz-flex-start;
 				-webkit-align-items: -webkit-flex-start;
 				-ms-align-items: -ms-flex-start;
@@ -5324,7 +5331,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.spotlight.style3 {
-				padding: 2.5rem 2rem 0.5rem 2rem ;
+				padding: 2.5rem 2rem 0.75rem 2rem ;
 				-moz-align-items: -moz-flex-start;
 				-webkit-align-items: -webkit-flex-start;
 				-ms-align-items: -ms-flex-start;
@@ -5458,7 +5465,7 @@ input, select, textarea {
 			width: 40rem;
 			max-width: 50%;
 			background-color: inherit;
-			border-radius: 0.5rem;
+			border-radius: 0.75rem;
 			margin-bottom: 2rem;
 			z-index: 1;
 		}
@@ -5505,7 +5512,7 @@ input, select, textarea {
 			}
 
 				.spotlight.style4 .content {
-					padding: 2.5rem 2.5rem 0.5rem 2.5rem ;
+					padding: 2.5rem 2.5rem 0.75rem 2.5rem ;
 				}
 
 		}
@@ -5529,7 +5536,7 @@ input, select, textarea {
 			}
 
 				.spotlight.style4 .content {
-					padding: 2.25rem 2.25rem 0.25rem 2.25rem ;
+					padding: 2.25rem 2.25rem 0.75rem 2.25rem ;
 				}
 
 		}
@@ -5638,7 +5645,7 @@ input, select, textarea {
 			width: 40rem;
 			max-width: 52.5%;
 			background-color: inherit;
-			border-radius: 0.5rem;
+			border-radius: 0.75rem;
 			margin-bottom: 2rem;
 			z-index: 1;
 		}
@@ -5685,7 +5692,7 @@ input, select, textarea {
 			}
 
 				.spotlight.style5 .content {
-					padding: 2.5rem 2.5rem 0.5rem 2.5rem ;
+					padding: 2.5rem 2.5rem 0.75rem 2.5rem ;
 				}
 
 		}
@@ -5709,7 +5716,7 @@ input, select, textarea {
 			}
 
 				.spotlight.style5 .content {
-					padding: 2.25rem 2.25rem 0.25rem 2.25rem ;
+					padding: 2.25rem 2.25rem 0.75rem 2.25rem ;
 				}
 
 		}
@@ -6509,7 +6516,7 @@ input, select, textarea {
 				left: 0;
 				width: 100%;
 				height: 100%;
-				background-color: rgba(0, 0, 0, 0.5);
+				background-color: rgba(0, 0, 0, 0.75);
 				opacity: 0;
 				padding: 2rem;
 				z-index: 1;
@@ -6522,7 +6529,7 @@ input, select, textarea {
 
 				.gallery.style1 article .caption h2, .gallery.style1 article .caption h3, .gallery.style1 article .caption h4, .gallery.style1 article .caption h5, .gallery.style1 article .caption h6 {
 					font-size: 1.25rem;
-					margin-bottom: 0.25rem;
+					margin-bottom: 0.75rem;
 				}
 
 				.gallery.style1 article .caption > * {
@@ -6805,7 +6812,7 @@ input, select, textarea {
 
 		.gallery.style2 > .forward {
 			right: 0;
-			background-image: linear-gradient(to left, rgba(0, 0, 0, 0.25) 15%, rgba(0, 0, 0, 0));
+			background-image: linear-gradient(to left, rgba(0, 0, 0, 0.75) 15%, rgba(0, 0, 0, 0));
 		}
 
 			.gallery.style2 > .forward:before {
@@ -6815,7 +6822,7 @@ input, select, textarea {
 
 		.gallery.style2 > .backward {
 			left: 0;
-			background-image: linear-gradient(to right, rgba(0, 0, 0, 0.25) 15%, rgba(0, 0, 0, 0));
+			background-image: linear-gradient(to right, rgba(0, 0, 0, 0.75) 15%, rgba(0, 0, 0, 0));
 		}
 
 			.gallery.style2 > .backward:before {
@@ -6886,7 +6893,7 @@ input, select, textarea {
 				left: 0;
 				width: 100%;
 				height: 100%;
-				background-color: rgba(0, 0, 0, 0.5);
+				background-color: rgba(0, 0, 0, 0.75);
 				opacity: 0;
 				padding: 3rem;
 				z-index: 1;
@@ -6899,7 +6906,7 @@ input, select, textarea {
 
 				.gallery.style2 article .caption h2, .gallery.style2 article .caption h3, .gallery.style2 article .caption h4, .gallery.style2 article .caption h5, .gallery.style2 article .caption h6 {
 					font-size: 1.25rem;
-					margin-bottom: 0.25rem;
+					margin-bottom: 0.75rem;
 				}
 
 				.gallery.style2 article .caption > * {
@@ -7063,10 +7070,10 @@ input, select, textarea {
 		-webkit-user-select: none;
 		-ms-user-select: none;
 		user-select: none;
-		-moz-transition: opacity 0.5s ease, visibility 0.5s, z-index 0.5s;
-		-webkit-transition: opacity 0.5s ease, visibility 0.5s, z-index 0.5s;
-		-ms-transition: opacity 0.5s ease, visibility 0.5s, z-index 0.5s;
-		transition: opacity 0.5s ease, visibility 0.5s, z-index 0.5s;
+		-moz-transition: opacity 0.75s ease, visibility 0.75s, z-index 0.75s;
+		-webkit-transition: opacity 0.75s ease, visibility 0.75s, z-index 0.75s;
+		-ms-transition: opacity 0.75s ease, visibility 0.75s, z-index 0.75s;
+		transition: opacity 0.75s ease, visibility 0.75s, z-index 0.75s;
 		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 		position: fixed;
 		top: 0;
@@ -7085,14 +7092,14 @@ input, select, textarea {
 			-webkit-animation: gallery-modal-spinner 1s infinite linear;
 			-ms-animation: gallery-modal-spinner 1s infinite linear;
 			animation: gallery-modal-spinner 1s infinite linear;
-			-moz-transition: opacity 0.25s ease;
-			-webkit-transition: opacity 0.25s ease;
-			-ms-transition: opacity 0.25s ease;
-			transition: opacity 0.25s ease;
-			-moz-transition-delay: 0.5s;
-			-webkit-transition-delay: 0.5s;
-			-ms-transition-delay: 0.5s;
-			transition-delay: 0.5s;
+			-moz-transition: opacity 0.75s ease;
+			-webkit-transition: opacity 0.75s ease;
+			-ms-transition: opacity 0.75s ease;
+			transition: opacity 0.75s ease;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
 			content: '';
 			display: block;
 			position: absolute;
@@ -7112,8 +7119,8 @@ input, select, textarea {
 			content: '';
 			display: block;
 			position: absolute;
-			top: 0.5rem;
-			right: 0.5rem;
+			top: 0.75rem;
+			right: 0.75rem;
 			width: 4rem;
 			height: 4rem;
 			cursor: pointer;
@@ -7128,10 +7135,10 @@ input, select, textarea {
 			-webkit-transform: translateY(0.75rem);
 			-ms-transform: translateY(0.75rem);
 			transform: translateY(0.75rem);
-			-moz-transition: opacity 0.25s ease, -moz-transform 0.25s ease;
-			-webkit-transition: opacity 0.25s ease, -webkit-transform 0.25s ease;
-			-ms-transition: opacity 0.25s ease, -ms-transform 0.25s ease;
-			transition: opacity 0.25s ease, transform 0.25s ease;
+			-moz-transition: opacity 0.75s ease, -moz-transform 0.75s ease;
+			-webkit-transition: opacity 0.75s ease, -webkit-transform 0.75s ease;
+			-ms-transition: opacity 0.75s ease, -ms-transform 0.75s ease;
+			transition: opacity 0.75s ease, transform 0.75s ease;
 			opacity: 0;
 		}
 
@@ -7158,10 +7165,10 @@ input, select, textarea {
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
 			transform: translateY(0);
-			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease;
-			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease;
-			-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease;
-			transition: opacity 0.5s ease, transform 0.5s ease;
+			-moz-transition: opacity 0.75s ease, -moz-transform 0.75s ease;
+			-webkit-transition: opacity 0.75s ease, -webkit-transform 0.75s ease;
+			-ms-transition: opacity 0.75s ease, -ms-transform 0.75s ease;
+			transition: opacity 0.75s ease, transform 0.75s ease;
 			opacity: 1;
 		}
 
@@ -7244,7 +7251,7 @@ input, select, textarea {
 		.wrapper.style2 > .inner {
 			padding: 5.25rem 3.5rem 3.25rem 3.5rem ;
 			background-color: #ffffff;
-			border-radius: 0.5rem;
+			border-radius: 0.75rem;
 			margin: 0 auto;
 			max-width: 100%;
 			position: relative;
@@ -8355,7 +8362,7 @@ input, select, textarea {
 				}
 
 			#wrapper > .invert select {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(0, 0, 0, 0.2)' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.75-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.75,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.75,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.75-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.75-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(0, 0, 0, 0.2)' /%3E%3C/svg%3E");
 			}
 
 				#wrapper > .invert select option {
