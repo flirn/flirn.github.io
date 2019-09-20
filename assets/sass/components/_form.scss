@@ -144,7 +144,7 @@
 		z-index: -1;
 
 		& + label {
-			@include icon;
+			@include icon(false, solid);
 			@include vendor('user-select', 'none');
 			cursor: pointer;
 			display: inline-block;
@@ -160,9 +160,10 @@
 				border: solid _size(border-width);
 				content: '';
 				display: inline-block;
+				font-size: 0.8rem;
 				height: (_size(element-height) * 0.6);
 				left: 0;
-				line-height: (_size(element-height) * 0.575);
+				line-height: (_size(element-height) * 0.6);
 				position: absolute;
 				text-align: center;
 				top: 0;
