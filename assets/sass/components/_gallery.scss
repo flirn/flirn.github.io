@@ -278,7 +278,7 @@
 		background-color: transparent;
 
 		> .forward, >.backward {
-			@include icon(false, solid);
+			@include icon;
 			@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
 			position: absolute;
 			top: 0;
