@@ -2610,10 +2610,6 @@ input, select, textarea {
 		height: auto;
 		position: center;
 	}
-	img.center {
-		display: block;
-		margin: 0 auto;
-	}
 /* Image */
 
 	.image {
