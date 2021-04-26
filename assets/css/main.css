@@ -3473,7 +3473,7 @@ input, select, textarea {
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			border-radius: 0;
-			width: 50%;
+			width: 60%;
 		}
 
 			.banner.style1 .image img {
@@ -3622,7 +3622,7 @@ input, select, textarea {
 			-moz-object-position: right;
 			-webkit-object-position: right;
 			-ms-object-position: right;
-			object-position: right;
+			object-position: left;
 		}
 
 /* Banner (style2) */
@@ -6678,7 +6678,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		-webkit-overflow-scrolling: touch;
+		-webkit-overflow-scrolling: auto | touch;
 		position: relative;
 		background-color: transparent;
 	}
