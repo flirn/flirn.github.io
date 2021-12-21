@@ -77,7 +77,7 @@ function makeFlake(){
     rotate(PI/3);
   }
 }
-function mousePressed() {
+function mouseClicked() {
   sketchName = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
   console.log(sketchName);
   redraw();
