@@ -1,33 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Fabian Schwarze</title>
-    <link>http://flirn.github.io/docs/weiteres/</link>
-    <description>Recent content on Fabian Schwarze</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
-    <copyright>© Fabian Schwarze 2022</copyright><atom:link href="http://flirn.github.io/docs/weiteres/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ostholstein-Museum Eutin</title>
-      <link>http://flirn.github.io/docs/weiteres/ohm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://flirn.github.io/docs/weiteres/ohm/</guid>
-      <description>Ostholsteinmuseum in Eutin#Das Museum#Das Ostholstein-Museum Eutin ist das Kunstmuseum des Kreises Ostholstein in Schleswig-Holstein und befindet sich im ehemaligen Gebäude des Marstalls am Schlossplatz des Eutiner Schlosses.
-Seit 2022 unterstütze ich das Museum bei der grafischen Gestaltung der Sonderausstellungen.</description>
-    </item>
-    
-    <item>
-      <title>Night of open Knowledge</title>
-      <link>http://flirn.github.io/docs/weiteres/nook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://flirn.github.io/docs/weiteres/nook/</guid>
-      <description>Night of open Knowledge#Die Night of Open Knowledge (NooK) ist eine seit 2011 stattfindende Konferenz im Audimax auf dem Campus von Uni und TH Lübeck.
-Zwei Tage voller Vorträge, Workshops, Unterhaltung und Gelegenheiten zum Austausch.
-Seit 2017 unterstütze ich die NooK grafisch und organisatorisch.
-Zur NooK▲ Die Night of open Knowledge wir von der MetaMeute und dem Chaotikum e.V. organisiert und vom AStA der Universität zu Lübeck unterstützt.</description>
-    </item>
-    
-  </channel>
-</rss>
