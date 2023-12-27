@@ -8,6 +8,15 @@
     <language>de-DE</language>
     <copyright>© Fabian Schwarze 2023</copyright><atom:link href="http://flirn.github.io/weiteres/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>HansePixel 2020</title>
+      <link>http://flirn.github.io/weiteres/hansepixel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://flirn.github.io/weiteres/hansepixel/</guid>
+      <description> Hansepixel 2020 # </description>
+    </item>
+    
+    <item>
       <title>Ostholstein-Museum Eutin</title>
       <link>http://flirn.github.io/weiteres/ohm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
