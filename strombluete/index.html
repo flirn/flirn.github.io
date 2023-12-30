@@ -20,6 +20,7 @@ Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
   
+  <link rel="stylesheet" href="/css/simpleLightbox.css">
 </head>
 <body dir="ltr">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
@@ -465,72 +466,12 @@ https://github.com/alex-shpak/hugo-book
   Galerie
   <a class="anchor" href="#galerie">#</a>
 </h2>
-
-<div class="snap-gallery">
-  
-
-
-<link rel="stylesheet" href="/css/snap-gallery.css" /><figure>
-    
-    <a href="#gal1-fig1">
-      <img src="/img/strombluetegalerie/strombluete2.jpg" class="snap-thumb" />
-    </a>
-    
-    <div class="snap-lightbox" id="gal1-fig1">
-      <a href="#_" class="snap-lightbox-close"></a>
-      <div class="snap-lightbox-inner">
-        <img src='/img/strombluetegalerie/strombluete2.jpg' />
-      </div>
-      <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><span class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></span><a href="#gal1-fig2" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-    </div>
-  </figure>
-<figure>
-    
-    <a href="#gal1-fig2">
-      <img src="/img/strombluetegalerie/stromblueteCyansmall_%28c%29fabianschwarze.jpg" class="snap-thumb" />
-    </a>
-    
-    <div class="snap-lightbox" id="gal1-fig2">
-      <a href="#_" class="snap-lightbox-close"></a>
-      <div class="snap-lightbox-inner">
-        <img src='/img/strombluetegalerie/stromblueteCyansmall_%28c%29fabianschwarze.jpg' />
-      </div>
-      <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><a href="#gal1-fig1" class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></a><a href="#gal1-fig3" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-    </div>
-  </figure>
-<figure>
-    
-    <a href="#gal1-fig3">
-      <img src="/img/strombluetegalerie/stromblueteMuseumsnacht2023_2small_FabianSchwarze.jpeg" class="snap-thumb" />
-    </a>
-    
-    <div class="snap-lightbox" id="gal1-fig3">
-      <a href="#_" class="snap-lightbox-close"></a>
-      <div class="snap-lightbox-inner">
-        <img src='/img/strombluetegalerie/stromblueteMuseumsnacht2023_2small_FabianSchwarze.jpeg' />
-      </div>
-      <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><a href="#gal1-fig2" class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></a><a href="#gal1-fig4" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-    </div>
-  </figure>
-<figure>
-    
-    <a href="#gal1-fig4">
-      <img src="/img/strombluetegalerie/stromblueteMuseumsnacht2023_4small_FabianSchwarze.jpg" class="snap-thumb" />
-    </a>
-    
-    <div class="snap-lightbox" id="gal1-fig4">
-      <a href="#_" class="snap-lightbox-close"></a>
-      <div class="snap-lightbox-inner">
-        <img src='/img/strombluetegalerie/stromblueteMuseumsnacht2023_4small_FabianSchwarze.jpg' />
-      </div>
-      <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><a href="#gal1-fig3" class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></a><span class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></span>
-    </div>
-  </figure>
-
-
-
+<div id="simpleLightGallery" style="display: flex;">
+  <a href="/img/strombluete/strombluete_full.jpg" title="Komplettansicht der Stromblüte"><img class="previewPortrait" src="/img/strombluete/strombluete_full.jpg" width="150"  alt="Eine 3d-gedruckte Blume mit weißen Blütenblättern und einem goldenen Ständer."></a>
+  <a href="/img/strombluete/strombluete_cyan.jpg" title="Stromblüte leuchtet in Cyan"><img class="previewPortrait" src="/img/strombluete/strombluete_cyan.jpg" width="150"  alt="Eine blaue 3d-gedruckte Blüte vor schwarzem Hintergrund."></a>
+  <a href="/img/strombluete/strombluete_bunt.jpg" title="Das Kunstwerk besteht aktuell aus etwa 20 Blumen. Foto: Malte Schmitz"><img class="previewPortrait" src="/img/strombluete/strombluete_bunt.jpg" width="150"  alt="Viele bunt leuchtende 3d-gedruckte Blumen stehen im Dunkeln auf einem Kopfsteinpflaster."></a>
+  <a href="/img/strombluete/strombluete_aufbau.jpg" title="Installation der Stromblüten. Foto: Malte Schmitz"><img class="previewPortrait" src="/img/strombluete/strombluete_aufbau.jpg" width="150"  alt="Ein Mann in weißem T-Shirt bückt sich und stellt eine 3d-gedruckte Blume auf das Kopfsteinflaster. Daneben stehen bereits Weitere."></a>
 </div>
-
 <h2 id="code-und-bauteile">
   Code und Bauteile
   <a class="anchor" href="#code-und-bauteile">#</a>
@@ -541,66 +482,11 @@ https://github.com/alex-shpak/hugo-book
   Aufbau
   <a class="anchor" href="#aufbau">#</a>
 </h2>
-
-<div class="snap-gallery">
-  
-
-<figure >
-  <div class="snap-wrapper">
-    <a href="#gal2-fig1">
-      <img src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauBestandteile.png" class="snap-thumb"/>
-    </a>
-    <div class="snap-lightbox" id="gal2-fig1">
-        <a href="#_" class="snap-lightbox-close"></a>
-        <div class="snap-lightbox-inner">
-          <img src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauBestandteile.png"  />
-          <p>
-          </p>
-        </div>
-        <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><span class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></span>
-          <a href="#gal2-fig2" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-      </div></div>
-</figure>
-
-
-<figure >
-  <div class="snap-wrapper">
-    <a href="#gal2-fig2">
-      <img src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauElektronik.png" class="snap-thumb"/>
-    </a>
-    <div class="snap-lightbox" id="gal2-fig2">
-        <a href="#_" class="snap-lightbox-close"></a>
-        <div class="snap-lightbox-inner">
-          <img src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauElektronik.png"  />
-          <p>
-          </p>
-        </div>
-        <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><a href="#gal2-fig1" class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></a>
-          <a href="#gal2-fig3" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-      </div></div>
-</figure>
-
-
-<figure >
-  <div class="snap-wrapper">
-    <a href="#gal2-fig3">
-      <img src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauNetzwerk.png" class="snap-thumb"/>
-    </a>
-    <div class="snap-lightbox" id="gal2-fig3">
-        <a href="#_" class="snap-lightbox-close"></a>
-        <div class="snap-lightbox-inner">
-          <img src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauNetzwerk.png"  />
-          <p>
-          </p>
-        </div>
-        <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><a href="#gal2-fig2" class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></a>
-          <a href="#gal2-fig4" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-      </div></div>
-</figure>
-
-
+<div id="simpleLightGallery" style="display: flex;">
+  <a href="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauBestandteile.png" title="3d-gedruckte Bestandteile einer Stromblüte"><img class="previewPortrait" src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauBestandteile.png" width="150"></a>
+  <a href="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauElektronik.png" title="Elektrische Bestandteile einer Stromblüte"><img class="previewPortrait" src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauElektronik.png" width="150"></a>
+  <a href="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauNetzwerk.png" title="Schema der Ansteuerung"><img class="previewPortrait" src="https://raw.githubusercontent.com/flirn/strombluete/main/img/AufbauNetzwerk.png" width="150"></a>
 </div>
-
 <hr>
 <div class="book-columns flex flex-wrap" style="flex-direction: row-reverse;">
 
@@ -662,8 +548,12 @@ https://github.com/alex-shpak/hugo-book
 
   
   
-  <script type="text/javascript" src="/js/lightbox.js"></script>
-  <link rel="stylesheet" href="/css/lightbox.css">
+  <script src="/js/simpleLightbox.js"></script>
+  <script>
+    new SimpleLightbox({elements: '#simpleLightGallery a'});
+  </script>
+
+
 
 </body>
 </html>

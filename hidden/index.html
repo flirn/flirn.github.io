@@ -21,6 +21,7 @@ Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
   
+  <link rel="stylesheet" href="/css/simpleLightbox.css">
 </head>
 <body dir="ltr">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
@@ -532,8 +533,12 @@ sector(memory(firewire + interlaced, wired));</code></pre>
 
   
   
-  <script type="text/javascript" src="/js/lightbox.js"></script>
-  <link rel="stylesheet" href="/css/lightbox.css">
+  <script src="/js/simpleLightbox.js"></script>
+  <script>
+    new SimpleLightbox({elements: '#simpleLightGallery a'});
+  </script>
+
+
 
 </body>
 </html>

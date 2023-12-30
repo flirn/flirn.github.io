@@ -21,6 +21,7 @@ Made with Book Theme
 https://github.com/alex-shpak/hugo-book
 -->
   
+  <link rel="stylesheet" href="/css/simpleLightbox.css">
 </head>
 <body dir="ltr">
   <input type="checkbox" class="hidden toggle" id="menu-control" />
@@ -441,58 +442,11 @@ https://github.com/alex-shpak/hugo-book
   Ostholsteinmuseum in Eutin
   <a class="anchor" href="#ostholsteinmuseum-in-eutin">#</a>
 </h1>
-
-<div class="snap-gallery">
-  
-
-
-<link rel="stylesheet" href="/css/snap-gallery.css" /><figure>
-    
-    <a href="#gal1-fig1">
-      <img src="/img/ohm/2022-07-OHM-Picasso.jpg" class="snap-thumb" />
-    </a>
-    
-    <div class="snap-lightbox" id="gal1-fig1">
-      <a href="#_" class="snap-lightbox-close"></a>
-      <div class="snap-lightbox-inner">
-        <img src='/img/ohm/2022-07-OHM-Picasso.jpg' />
-      </div>
-      <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><span class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></span><a href="#gal1-fig2" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-    </div>
-  </figure>
-<figure>
-    
-    <a href="#gal1-fig2">
-      <img src="/img/ohm/OHReiseland.jpg" class="snap-thumb" />
-    </a>
-    
-    <div class="snap-lightbox" id="gal1-fig2">
-      <a href="#_" class="snap-lightbox-close"></a>
-      <div class="snap-lightbox-inner">
-        <img src='/img/ohm/OHReiseland.jpg' />
-      </div>
-      <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><a href="#gal1-fig1" class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></a><a href="#gal1-fig3" class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></a>
-    </div>
-  </figure>
-<figure>
-    
-    <a href="#gal1-fig3">
-      <img src="/img/ohm/ohmatif.jpg" class="snap-thumb" />
-    </a>
-    
-    <div class="snap-lightbox" id="gal1-fig3">
-      <a href="#_" class="snap-lightbox-close"></a>
-      <div class="snap-lightbox-inner">
-        <img src='/img/ohm/ohmatif.jpg' />
-      </div>
-      <a href="#_" class="snap-lightbox-close-button"><i class="snap-lightbox-x"></i></a><a href="#gal1-fig2" class="snap-lightbox-prev"><i class="snap-lightbox-arrow"></i></a><span class="snap-lightbox-next"><i class="snap-lightbox-arrow"></i></span>
-    </div>
-  </figure>
-
-
-
+<div id="simpleLightGallery" style="display: flex;">
+  <a href="/img/ohm/ohm2022picasso.jpg" title="Plakat der Ausstellung Picasso Keramik"><img class="previewPortrait" src="/img/ohm/ohm2022picasso.jpg" width="150"></a>
+  <a href="/img/ohm/ohm2023blumenwiese.jpg" title="Plakat der Ausstellung Literarische Blumenwiese"><img class="previewPortrait" src="/img/ohm/ohm2023blumenwiese.jpg" width="150"></a>
+  <a href="/img/ohm/ohm2022reiseland.jpg" title="Plakat der Ausstellung Reiseland Ostholstein"><img class="previewPortrait" src="/img/ohm/ohm2022reiseland.jpg" width="150"></a>
 </div>
-
 <h2 id="das-museum">
   Das Museum
   <a class="anchor" href="#das-museum">#</a>
@@ -562,8 +516,12 @@ https://github.com/alex-shpak/hugo-book
 
   
   
-  <script type="text/javascript" src="/js/lightbox.js"></script>
-  <link rel="stylesheet" href="/css/lightbox.css">
+  <script src="/js/simpleLightbox.js"></script>
+  <script>
+    new SimpleLightbox({elements: '#simpleLightGallery a'});
+  </script>
+
+
 
 </body>
 </html>
