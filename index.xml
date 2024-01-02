@@ -8,15 +8,6 @@
     <language>de-DE</language>
     <copyright>© Fabian Schwarze 2023</copyright><atom:link href="http://flirn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HansePixel 2020</title>
-      <link>http://flirn.github.io/weiteres/hansepixel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://flirn.github.io/weiteres/hansepixel/</guid>
-      <description> Hansepixel 2020 # </description>
-    </item>
-    
-    <item>
       <title>Ostholstein-Museum Eutin</title>
       <link>http://flirn.github.io/weiteres/ohm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,13 +39,39 @@ In dem Buch zeigt sie Schmuck, Gefäße und Malereien, erzählt Geschichten und 
     </item>
     
     <item>
+      <title>Astrofotografie: Stacking</title>
+      <link>http://flirn.github.io/weiteres/chaotikum/astrostacking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://flirn.github.io/weiteres/chaotikum/astrostacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kreatives Coden mit P5 und ChatGPT</title>
+      <link>http://flirn.github.io/weiteres/chaotikum/p5gpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://flirn.github.io/weiteres/chaotikum/p5gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurze Einführung in P5</title>
+      <link>http://flirn.github.io/weiteres/chaotikum/p5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://flirn.github.io/weiteres/chaotikum/p5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MIDI-Handschuh</title>
       <link>http://flirn.github.io/weiteres/chaotikum/midi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://flirn.github.io/weiteres/chaotikum/midi/</guid>
-      <description>Summa Summarum # Das Buch # Lorem markdownum, a quoque nutu est quodcumque mandasset veluti. Passim inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum novabis fallit de nubibus atque silvas mihi. Dixit repetitaque Quid; verrit longa; sententia mandat quascumque nescio solebat litore; noctes. Hostem haerentem circuit plenaque tamen.
-Pedum ne indigenae finire invergens carpebat Velit posses summoque De fumos illa foret Zu Caroline Rügge # Locum nullus nisi vomentes.</description>
+      <description></description>
     </item>
     
     <item>
@@ -67,6 +84,15 @@ Pedum ne indigenae finire invergens carpebat Velit posses summoque De fumos illa
 Zwei Tage voller Vorträge, Workshops, Unterhaltung und Gelegenheiten zum Austausch.
 Seit 2017 unterstütze ich die NooK grafisch und organisatorisch.
 Zur NooK ▲ Die Night of open Knowledge wir von der MetaMeute und dem Chaotikum e.V. organisiert und vom AStA der Universität zu Lübeck unterstützt.</description>
+    </item>
+    
+    <item>
+      <title>HansePixel 2020</title>
+      <link>http://flirn.github.io/weiteres/hansepixel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://flirn.github.io/weiteres/hansepixel/</guid>
+      <description> Hansepixel 2020 # </description>
     </item>
     
     <item>
