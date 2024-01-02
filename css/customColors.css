@@ -7,11 +7,8 @@ a.linkYellow {
 a.linkOrange {
     color:  orange !important; 
 }
-a.linkOrange {
-    color:  orange !important; 
-}
-a.linkBlue {
-    color:  lightblue !important; 
+a.linkCoral {
+    color: lightcoral !important; 
 }
 a.linkGreen {
     color:  green !important; 
