@@ -4,8 +4,9 @@
     <title>Über mich on Fabian Schwarze</title>
     <link>http://flirn.github.io/about/</link>
     <description>Recent content in Über mich on Fabian Schwarze</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-DE</language>
-    <copyright>© Fabian Schwarze 2023</copyright><atom:link href="http://flirn.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Fabian Schwarze 2023</copyright>
+    <atom:link href="http://flirn.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

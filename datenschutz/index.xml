@@ -4,8 +4,9 @@
     <title>Datenschutz on Fabian Schwarze</title>
     <link>http://flirn.github.io/datenschutz/</link>
     <description>Recent content in Datenschutz on Fabian Schwarze</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-DE</language>
-    <copyright>© Fabian Schwarze 2023</copyright><atom:link href="http://flirn.github.io/datenschutz/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Fabian Schwarze 2023</copyright>
+    <atom:link href="http://flirn.github.io/datenschutz/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

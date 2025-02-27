@@ -4,8 +4,9 @@
     <title>Hochzeiten on Fabian Schwarze</title>
     <link>http://flirn.github.io/fotografie/hochzeiten/</link>
     <description>Recent content in Hochzeiten on Fabian Schwarze</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>de-DE</language>
-    <copyright>© Fabian Schwarze 2023</copyright><atom:link href="http://flirn.github.io/fotografie/hochzeiten/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Fabian Schwarze 2023</copyright>
+    <atom:link href="http://flirn.github.io/fotografie/hochzeiten/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
