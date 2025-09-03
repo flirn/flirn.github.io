@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universität zu Lübeck on Fabian Schwarze</title>
-    <link>http://localhost:1313/weiteres/uzl/</link>
+    <link>http://flirn.github.io/weiteres/uzl/</link>
     <description>Recent content in Universität zu Lübeck on Fabian Schwarze</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <copyright>© Fabian Schwarze 2023</copyright>
-    <atom:link href="http://localhost:1313/weiteres/uzl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://flirn.github.io/weiteres/uzl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIDL</title>
-      <link>http://localhost:1313/weiteres/uzl/midl/</link>
+      <link>http://flirn.github.io/weiteres/uzl/midl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/weiteres/uzl/midl/</guid>
+      <guid>http://flirn.github.io/weiteres/uzl/midl/</guid>
       <description>&lt;h1 id=&#34;summa-summarum&#34;&gt;&#xA;  Summa Summarum&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summa-summarum&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;das-buch&#34;&gt;&#xA;  Das Buch&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#das-buch&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum, a quoque nutu est &lt;em&gt;quodcumque mandasset&lt;/em&gt; veluti. Passim&#xA;inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet&#xA;non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum&#xA;novabis fallit de nubibus atque silvas mihi. &lt;strong&gt;Dixit repetitaque Quid&lt;/strong&gt;; verrit&#xA;longa; sententia &lt;a href=&#34;http://pastor-ad.io/questussilvas&#34;&gt;mandat&lt;/a&gt; quascumque nescio&#xA;solebat &lt;a href=&#34;http://lacrimas-ab.net/&#34;&gt;litore&lt;/a&gt;; noctes. &lt;em&gt;Hostem haerentem&lt;/em&gt; circuit&#xA;&lt;a href=&#34;http://www.sine.io/in&#34;&gt;plenaque tamen&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;FSC_3234.JPG&#34; alt=&#34;Example Image&#34; /&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pedum ne indigenae finire invergens carpebat&lt;/li&gt;&#xA;&lt;li&gt;Velit posses summoque&lt;/li&gt;&#xA;&lt;li&gt;De fumos illa foret&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;zu-caroline-rügge&#34;&gt;&#xA;  Zu Caroline Rügge&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#zu-caroline-r%c3%bcgge&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem&#xA;Argolicas gener.&lt;/p&gt;</description>
     </item>
   </channel>

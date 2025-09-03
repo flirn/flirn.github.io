@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aufträge on Fabian Schwarze</title>
-    <link>http://localhost:1313/auftraege/</link>
+    <link>http://flirn.github.io/auftraege/</link>
     <description>Recent content in Aufträge on Fabian Schwarze</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <copyright>© Fabian Schwarze 2023</copyright>
-    <atom:link href="http://localhost:1313/auftraege/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://flirn.github.io/auftraege/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
