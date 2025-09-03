@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaotikum e.V. on Fabian Schwarze</title>
-    <link>http://flirn.github.io/weiteres/chaotikum/</link>
+    <link>http://localhost:1313/weiteres/chaotikum/</link>
     <description>Recent content in Chaotikum e.V. on Fabian Schwarze</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <copyright>© Fabian Schwarze 2023</copyright>
-    <atom:link href="http://flirn.github.io/weiteres/chaotikum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/weiteres/chaotikum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Astrofotografie: Stacking</title>
-      <link>http://flirn.github.io/weiteres/chaotikum/astrostacking/</link>
+      <link>http://localhost:1313/weiteres/chaotikum/astrostacking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://flirn.github.io/weiteres/chaotikum/astrostacking/</guid>
+      <guid>http://localhost:1313/weiteres/chaotikum/astrostacking/</guid>
       <description>&lt;iframe width=&#34;1024&#34; height=&#34;576&#34; src=&#34;https://media.ccc.de/v/chaotikum-stacking/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>kreatives Coden mit P5 und ChatGPT</title>
-      <link>http://flirn.github.io/weiteres/chaotikum/p5gpt/</link>
+      <link>http://localhost:1313/weiteres/chaotikum/p5gpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://flirn.github.io/weiteres/chaotikum/p5gpt/</guid>
+      <guid>http://localhost:1313/weiteres/chaotikum/p5gpt/</guid>
       <description>&lt;iframe width=&#34;1024&#34; height=&#34;576&#34; src=&#34;https://media.ccc.de/v/2023-06-21-kreatives-coden-mit-p5-und-chatgpt/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Kurze Einführung in P5</title>
-      <link>http://flirn.github.io/weiteres/chaotikum/p5/</link>
+      <link>http://localhost:1313/weiteres/chaotikum/p5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://flirn.github.io/weiteres/chaotikum/p5/</guid>
+      <guid>http://localhost:1313/weiteres/chaotikum/p5/</guid>
       <description>&lt;iframe width=&#34;1024&#34; height=&#34;576&#34; src=&#34;https://media.ccc.de/v/2022-12-29-fabi-likes-p5/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>MIDI-Handschuh</title>
-      <link>http://flirn.github.io/weiteres/chaotikum/midi/</link>
+      <link>http://localhost:1313/weiteres/chaotikum/midi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://flirn.github.io/weiteres/chaotikum/midi/</guid>
+      <guid>http://localhost:1313/weiteres/chaotikum/midi/</guid>
       <description>&lt;iframe width=&#34;1024&#34; height=&#34;576&#34; src=&#34;https://media.ccc.de/v/chaotikum-midihandschuh/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>

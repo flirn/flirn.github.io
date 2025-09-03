@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veranstaltungen on Fabian Schwarze</title>
-    <link>http://flirn.github.io/fotografie/veranstaltungen/</link>
+    <link>http://localhost:1313/fotografie/veranstaltungen/</link>
     <description>Recent content in Veranstaltungen on Fabian Schwarze</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <copyright>© Fabian Schwarze 2023</copyright>
-    <atom:link href="http://flirn.github.io/fotografie/veranstaltungen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fotografie/veranstaltungen/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
